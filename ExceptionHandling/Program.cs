@@ -59,7 +59,7 @@ Console.WriteLine("Program Two Ended\n\n");
 
 #endregion
 
-//Methods TWO to handle DivideByZeroException
+//Methods TWO to handle DivideByZeroExceptio
 static void Divide(int num1, int num2)
 {
     int num3 = num1 / num2;
